@@ -1,19 +1,14 @@
 https://drive.google.com/file/d/1a6qNo0swVvQkVMyzHc0V1TRazfEVJby4/view?usp=drivesdk 
 
-🦁 Interactive VR Zoo Experience
-An immersive Virtual Reality zoo developed in Unity, designed for educational and exploratory learning.
-  
+In brief:
+Step into the wild with our Interactive VR Zoo, a fully immersive experience built in Unity 
+that brings learning to life! With stunning 3D models crafted in Blender and textured using 
+Photoshop, this virtual zoo lets users explore realistic environments, interact with animals, 
+and engage with educational content like never before. Powered by C# scripting and optimized 
+for VR headsets, this project transforms traditional learning into an exciting virtual adventure.
 
-🎮 Features
-Interactive 3D Environment: Zoo scenes modeled in Blender, textured with Photoshop for realistic visuals.
-User Interaction: Implemented using C# scripts, enabling smooth movement, animal interactions, and UI prompts.
-Immersive Deployment: Optimized and deployed for VR headsets to provide a realistic and engaging learning experience.
-
-  
-🛠️ Tools & Technologies
-  | Unity (VR Development)
-    | Blender (3D Modeling)
-      | Adobe Photoshop (Texturing)
-        | C# (Scripting)
-          | Oculus/HTC Vive (VR Deployment)
+Designed especially for students and educators, the VR Zoo makes it easy to visualize complex 
+biological and environmental concepts in a fun, engaging way. Whether it's observing animal 
+behavior up close or exploring diverse ecosystems, this project turns passive reading into 
+active exploration — making learning both memorable and magical.
 
