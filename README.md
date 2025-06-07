@@ -19,8 +19,4 @@ Immersive Deployment: Optimized and deployed for VR headsets to provide a realis
           | Oculus/HTC Vive (VR Deployment)
 
 
-Unity (VR Development)
-Blender (3D Modeling)
-Adobe Photoshop (Texturing)
-C# (Scripting)
-Oculus/HTC Vive (VR Deployment)
+
